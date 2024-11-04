@@ -1,12 +1,9 @@
 # React - Advanced Concepts
 
-## React Course
+Third react app in my learning journey.
+This aims to explore more advanced react concepts beyond simple components rendering.
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-## Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+The app uses vite react.
 
 ## Run App
 
